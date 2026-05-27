@@ -15,7 +15,7 @@ Portfolio with more detail and CV: [robertwatkin.co.uk](https://robertwatkin.co.
 - [BlogLab](https://bloglab.app), [DetectSiteAI](https://detectsiteai.com),
   [MyUserFeedback](https://myuserfeedback.com): live SaaS products I built
   and run solo.
-- BlockShorts: Android digital-wellbeing app, closed beta on Google Play.
+- BlockShorts: Android digital-wellbeing app
 
 ### Contact
 
